@@ -52,4 +52,3 @@ server initiates in port 8080
 
 -- if any other route it redirects to not found page.
 This is an example of a webserver implementation
-Testing GitPR feature
