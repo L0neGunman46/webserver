@@ -79,6 +79,7 @@ int main() {
   }
 
   printf("Listening on port %d\n", PORT);
+  // Listennng to the port
 
   // wait of a connection
   while (1) {
